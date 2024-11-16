@@ -35,8 +35,8 @@ img {
 #startButton,
 #restartButton {
   margin: 20px auto;
-  border: 1px solid;
-  border-radius: 15px #000;
+  border: 1px solid #000;
+  border-radius: 15px;
   font-size: 20px;
   padding: 15px 20px;
   cursor: pointer;
